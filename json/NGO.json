@@ -1,0 +1,1142 @@
+[
+    {
+        "Subcategory": "Accounts Receivable",
+        "Category": "Accounts Receivable",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Donor Pledges Receivable",
+            "Grant Receivables",
+            "Membership Dues Receivable",
+            "Program Service Fees Receivable",
+            "Other Receivables"
+        ]
+    },
+    {
+        "Subcategory": "Allowance for Doubtful Accounts",
+        "Category": "Current Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "General Reserve for Doubtful Debts",
+            "Specific Doubtful Debts",
+            "Write-offs for Uncollectible Accounts",
+            "Aging of Receivables Reserve",
+            "Other Allowance for Doubtful Accounts"
+        ]
+    },
+    {
+        "Subcategory": "Employee Advances",
+        "Category": "Current Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Salary Advances",
+            "Travel Advances",
+            "Expense Advances",
+            "Loan Advances",
+            "Other Employee Advances"
+        ]
+    },
+    {
+        "Subcategory": "Prepaid Expenses",
+        "Category": "Current Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Prepaid Rent",
+            "Prepaid Insurance",
+            "Prepaid Utilities",
+            "Prepaid Maintenance",
+            "Other Prepaid Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Other Receivables",
+        "Category": "Current Asset",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Grants Receivable",
+            "Receivables from Vendors",
+            "Receivables from Donors",
+            "Refunds Receivable",
+            "Other Miscellaneous Receivables"
+        ]
+    },
+    {
+        "Subcategory": "Office Equipment",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Office Furniture",
+            "Office Machinery",
+            "Office Supplies",
+            "Telecommunication Equipment",
+            "Other Office Equipment"
+        ]
+    },
+    {
+        "Subcategory": "Computer Equipment",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Desktops and Laptops",
+            "Servers",
+            "Software Licenses",
+            "Networking Equipment",
+            "Other Computer Equipment"
+        ]
+    },
+    {
+        "Subcategory": "Furniture and Fixtures",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Reception Furniture",
+            "Conference Room Furniture",
+            "Storage Units",
+            "Lighting Fixtures",
+            "Other Furniture and Fixtures"
+        ]
+    },
+    {
+        "Subcategory": "Machinery and Equipment",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Production Machinery",
+            "Construction Equipment",
+            "Maintenance Equipment",
+            "Material Handling Equipment",
+            "Other Machinery and Equipment"
+        ]
+    },
+    {
+        "Subcategory": "Vehicles",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Company Cars",
+            "Delivery Vehicles",
+            "Service Vehicles",
+            "Leased Vehicles",
+            "Other Vehicles"
+        ]
+    },
+    {
+        "Subcategory": "Leasehold Improvements",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Office Renovations",
+            "Utilities Upgrade",
+            "Interior Modifications",
+            "Signage",
+            "Other Leasehold Improvements"
+        ]
+    },
+    {
+        "Subcategory": "Buildings",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Office Buildings",
+            "Warehouse Facilities",
+            "Community Centers",
+            "Event Venues",
+            "Other Buildings"
+        ]
+    },
+    {
+        "Subcategory": "Land",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Land for Development",
+            "Vacant Land",
+            "Land Improvements",
+            "Community Gardens",
+            "Other Land"
+        ]
+    },
+    {
+        "Subcategory": "Accumulated Depreciation",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Accumulated Depreciation - Office Equipment",
+            "Accumulated Depreciation - Computer Equipment",
+            "Accumulated Depreciation - Furniture and Fixtures",
+            "Accumulated Depreciation - Machinery and Equipment",
+            "Other Accumulated Depreciation"
+        ]
+    },
+    {
+        "Subcategory": "Goodwill",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Acquired Goodwill",
+            "Customer Goodwill",
+            "Brand Recognition Goodwill",
+            "Programmatic Goodwill",
+            "Other Goodwill"
+        ]
+    },
+    {
+        "Subcategory": "Other Intangible Assets",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Copyrights",
+            "Franchise Agreements",
+            "Licenses and Permits",
+            "Membership Lists",
+            "Other Intangible Assets"
+        ]
+    },
+    {
+        "Subcategory": "Accumulated Amortization",
+        "Category": "Fixed Asset",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Accumulated Amortization - Intangible Assets",
+            "Accumulated Amortization - Legal Licenses",
+            "Amortization of Goodwill",
+            "Accumulated Amortization - Patents",
+            "Other Accumulated Amortization"
+        ]
+    },
+    {
+        "Subcategory": "Investments (Restricted)",
+        "Category": "Non-current Asset",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Endowment Fund Investments",
+            "Donor-Restricted Investments",
+            "Grant-Specific Investments",
+            "Scholarship Fund Investments",
+            "Other Restricted Investments"
+        ]
+    },
+    {
+        "Subcategory": "Investments (Unrestricted)",
+        "Category": "Non-current Asset",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "General Fund Investments",
+            "Operating Reserve Investments",
+            "Board-Designated Investments",
+            "Liquidity Investments",
+            "Other Unrestricted Investments"
+        ]
+    },
+    {
+        "Subcategory": "Other Loans Receivable",
+        "Category": "Non-current Asset",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Loans to Program Beneficiaries",
+            "Loans to Affiliates or Subsidiaries",
+            "Employee Loans",
+            "Accrued Interest Receivable",
+            "Other Miscellaneous Loans Receivable"
+        ]
+    },
+    {
+        "Subcategory": "Accounts Payable",
+        "Category": "Accounts Payable",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Vendor Payables",
+            "Grant-Related Payables",
+            "Program Expenses Payable",
+            "Professional Services Payable",
+            "Other Payables"
+        ]
+    },
+    {
+        "Subcategory": "Customer Deposits",
+        "Category": "Current Liability",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Advance Payments",
+            "Security Deposits",
+            "Refundable Deposits",
+            "Retainer Deposits",
+            "Other Customer Deposits"
+        ]
+    },
+    {
+        "Subcategory": "Accrued Expenses",
+        "Category": "Current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Legal Accruals",
+            "Accrued Wages",
+            "Accrued Benefits",
+            "Accrued Taxes",
+            "Other Accrued Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Interest Payable",
+        "Category": "Current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Interest on Loans",
+            "Interest on Leases",
+            "Interest on Bonds",
+            "Interest on Client Funds",
+            "Other Interest Payable"
+        ]
+    },
+    {
+        "Subcategory": "Wages Payable",
+        "Category": "Current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Salaries Payable",
+            "Overtime Payable",
+            "Bonuses Payable",
+            "Commission Payable",
+            "Other Wages Payable"
+        ]
+    },
+    {
+        "Subcategory": "Payroll Liabilities",
+        "Category": "Current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Payroll Taxes Payable",
+            "Social Security and Medicare Payable",
+            "Unemployment Taxes Payable",
+            "Employee Contributions Payable",
+            "Other Payroll Liabilities"
+        ]
+    },
+    {
+        "Subcategory": "Other Payables",
+        "Category": "Current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Vendor Payables",
+            "Client Refunds Payable",
+            "Legal Settlements Payable",
+            "Partner or Member Payments Payable",
+            "Other Payables"
+        ]
+    },
+    {
+        "Subcategory": "Unsecured Loan (Current)",
+        "Category": "Current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Unsecured Short-Term Loans",
+            "Credit Lines Payable",
+            "Other Unsecured Liabilities",
+            "Interest Payable on Unsecured Loans",
+            "Other Unsecured Loans"
+        ]
+    },
+    {
+        "Subcategory": "Secured Loan (Current)",
+        "Category": "Current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Current Portion of Secured Loans",
+            "Secured Credit Lines",
+            "Interest Payable on Secured Loans",
+            "Mortgages Payable",
+            "Other Secured Liabilities"
+        ]
+    },
+    {
+        "Subcategory": "Sales Tax",
+        "Category": "Sales Tax",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "State Sales Tax Payable",
+            "Local Sales Tax Payable",
+            "Use Tax Payable",
+            "Sales Tax Collected",
+            "Other Sales Tax Liabilities"
+        ]
+    },
+    {
+        "Subcategory": "Unpaid Expense Claims",
+        "Category": "Unpaid Expense Claims",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Vendor Invoices Unpaid",
+            "Employee Reimbursement Claims",
+            "Consultant Fees Unpaid",
+            "Unpaid Legal Fees",
+            "Other Unpaid Expense Claims"
+        ]
+    },
+    {
+        "Subcategory": "Loans Payable",
+        "Category": "Non-current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Long-Term Institutional Loans",
+            "Secured Loans",
+            "Unsecured Loans",
+            "Low-Interest Loans",
+            "Other Loans Payable"
+        ]
+    },
+    {
+        "Subcategory": "Other Long Term Liabilities",
+        "Category": "Non-current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Deferred Grant Liabilities",
+            "Deferred Compensation",
+            "Lease Obligations",
+            "Pension Liabilities",
+            "Other Long-Term Liabilities"
+        ]
+    },
+    {
+        "Subcategory": "Tracking Transfers",
+        "Category": "Tracking",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Fund Transfers",
+            "Grant Transfers",
+            "Restricted to Unrestricted Transfers",
+            "Program Transfers",
+            "Other Transfers"
+        ]
+    },
+    {
+        "Subcategory": "Historical Adjustment",
+        "Category": "Historical Adjustment",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Prior Period Adjustments",
+            "Restated Financials",
+            "Historical Depreciation Adjustments",
+            "Expense Account Adjustments",
+            "Other Historical Adjustments"
+        ]
+    },
+    {
+        "Subcategory": "Rounding",
+        "Category": "Rounding",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Rounding Up",
+            "Rounding Down",
+            "Rounding Adjustments for Transactions",
+            "Rounding on Invoices",
+            "Other Rounding Adjustments"
+        ]
+    },
+    {
+        "Subcategory": "Suspense",
+        "Category": "Non-current Liability",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Pending Settlement Liabilities",
+            "Disputed Claims",
+            "Conditional Liabilities",
+            "Reserved Amounts",
+            "Other Suspense Liabilities"
+        ]
+    },
+    {
+        "Subcategory": "Permanently Restricted Net Assets",
+        "Category": "Equity",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Endowment Funds",
+            "Permanent Trusts",
+            "Special Project Funds",
+            "Restricted Contributions",
+            "Other Permanently Restricted Assets"
+        ]
+    },
+    {
+        "Subcategory": "Temporarily Restricted Net Assets",
+        "Category": "Equity",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Time-Restricted Funds",
+            "Purpose-Restricted Funds",
+            "Grant Funds",
+            "Conditional Contributions",
+            "Other Temporarily Restricted Assets"
+        ]
+    },
+    {
+        "Subcategory": "Unrestricted Net Assets",
+        "Category": "Equity",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "General Fund",
+            "Operating Reserves",
+            "Designated Funds",
+            "Current Year Surplus",
+            "Other Unrestricted Assets"
+        ]
+    },
+    {
+        "Subcategory": "Retained Earnings",
+        "Category": "Retained Earnings",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Beginning Net Assets",
+            "Change in Net Assets",
+            "Net Income from Operations",
+            "Transfers to/(from) Other Funds",
+            "Other Adjustments"
+        ]
+    },
+    {
+        "Subcategory": "Grant Income",
+        "Category": "Revenue",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Federal Grants",
+            "State and Local Grants",
+            "Foundation Grants",
+            "Corporate Grants",
+            "Other Grants"
+        ]
+    },
+    {
+        "Subcategory": "Donation Income - Cash",
+        "Category": "Revenue",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Individual Donor Contributions",
+            "Corporate Donor Contributions",
+            "Fundraising Event Contributions",
+            "Recurring Donations",
+            "Other Cash Donations"
+        ]
+    },
+    {
+        "Subcategory": "Donation Income - Noncash",
+        "Category": "Revenue",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "In-Kind Donations",
+            "Property Donations",
+            "Stock Donations",
+            "Volunteer Services",
+            "Other Noncash Donations"
+        ]
+    },
+    {
+        "Subcategory": "Membership Dues",
+        "Category": "Revenue",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Annual Membership Fees",
+            "Lifetime Membership Fees",
+            "Program-Specific Memberships",
+            "Sponsorship Fees",
+            "Other Membership Dues"
+        ]
+    },
+    {
+        "Subcategory": "Other Revenues",
+        "Category": "Revenue",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Program Income",
+            "Investment Income",
+            "Sales of Goods",
+            "Rental Income",
+            "Miscellaneous Revenues"
+        ]
+    },
+    {
+        "Subcategory": "Advertising",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Online Advertising",
+            "Print Advertising",
+            "Promotional Materials",
+            "Sponsorships",
+            "Other Advertising Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Amortization",
+        "Category": "Depreciation",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Amortization of Intangible Assets",
+            "Amortization of Loan Costs",
+            "Amortization of Capitalized Software",
+            "Amortization of Leasehold Improvements",
+            "Other Amortization Adjustments"
+        ]
+    },
+    {
+        "Subcategory": "Bad Debt Expense",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Accounts Receivable Write-Offs",
+            "Uncollectible Pledges",
+            "Bad Debt Allowance",
+            "Loan Defaults",
+            "Other Bad Debt Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Bank Fees",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Monthly Account Fees",
+            "Transaction Fees",
+            "ATM Fees",
+            "Overdraft Fees",
+            "Other Bank Fees"
+        ]
+    },
+    {
+        "Subcategory": "Merchant Fees",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Credit Card Processing Fees",
+            "Payment Gateway Fees",
+            "Chargeback Fees",
+            "Monthly Service Fees",
+            "Other Merchant Fees"
+        ]
+    },
+    {
+        "Subcategory": "Charitable Contributions",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Cash Contributions",
+            "Noncash Contributions",
+            "In-Kind Donations",
+            "Sponsorship Contributions",
+            "Other Charitable Contributions"
+        ]
+    },
+    {
+        "Subcategory": "Cleaning and Maintenance",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Janitorial Services",
+            "Supplies for Cleaning",
+            "Repairs and Maintenance",
+            "Waste Management",
+            "Other Cleaning and Maintenance Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Commissions Paid",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Sales Commissions",
+            "Referral Fees",
+            "Performance Bonuses",
+            "Consultant Commissions",
+            "Other Commission Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Computer Expenses",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Software Licenses",
+            "Hardware Purchases",
+            "IT Support Services",
+            "Cloud Services",
+            "Other Computer Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Contract Labor",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Freelancers",
+            "Temporary Staffing",
+            "Consulting Services",
+            "Project-Based Labor",
+            "Other Contract Labor Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Depreciation",
+        "Category": "Depreciation",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Straight-Line Depreciation",
+            "Declining Balance Depreciation",
+            "Units of Production Depreciation",
+            "Depreciation of Leasehold Improvements",
+            "Other Depreciation Adjustments"
+        ]
+    },
+    {
+        "Subcategory": "Dues and Subscriptions",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Membership Dues",
+            "Professional Organization Fees",
+            "Subscription to Publications",
+            "Online Resource Subscriptions",
+            "Other Dues and Subscriptions"
+        ]
+    },
+    {
+        "Subcategory": "Employee Benefits",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Health Insurance",
+            "Retirement Contributions",
+            "Paid Time Off",
+            "Life Insurance",
+            "Other Employee Benefits"
+        ]
+    },
+    {
+        "Subcategory": "Entertainment",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Client and Donor Events",
+            "Volunteer Recognition Events",
+            "Staff Retreats",
+            "Catering for Meetings",
+            "Other Entertainment Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Fines and Penalties",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Regulatory Fines",
+            "Court Fees",
+            "Late Payment Penalties",
+            "Miscellaneous Fines",
+            "Other Penalty Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Licenses and Fees",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Non-Profit Registration Fees",
+            "Professional Licenses",
+            "Permit Costs",
+            "Franchise Fees",
+            "Other Licenses and Fees"
+        ]
+    },
+    {
+        "Subcategory": "Insurance - Liability",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "General Liability Insurance",
+            "Professional Liability Insurance",
+            "Cyber Liability Insurance",
+            "Property Insurance",
+            "Other Liability Insurance"
+        ]
+    },
+    {
+        "Subcategory": "Insurance - Employee Health",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Employer Health Insurance Premiums",
+            "Wellness Programs",
+            "Health Savings Account Contributions",
+            "Preventive Care Services",
+            "Other Health Insurance Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Insurance - Life",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Group Life Insurance Premiums",
+            "Supplemental Life Insurance",
+            "Accidental Death & Dismemberment Insurance",
+            "Other Life Insurance Expenses",
+            "Life Insurance Contributions"
+        ]
+    },
+    {
+        "Subcategory": "Insurance - Workers Compensation",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Workers’ Compensation Premiums",
+            "Claims Management Expenses",
+            "Safety Program Expenses",
+            "Other Workers Compensation Expenses",
+            "Loss Prevention Services"
+        ]
+    },
+    {
+        "Subcategory": "Insurance - Other",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Property Insurance",
+            "Liability Insurance",
+            "Workers’ Compensation Insurance",
+            "Professional Liability Insurance",
+            "Other Insurance Policies"
+        ]
+    },
+    {
+        "Subcategory": "Interest Expense",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Interest on Loans",
+            "Interest on Credit Lines",
+            "Interest on Equipment Financing",
+            "Other Interest Expenses",
+            "Interest on Overdrafts"
+        ]
+    },
+    {
+        "Subcategory": "Meals",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Business Meals with Donors",
+            "Volunteer Meals",
+            "Catering for Fundraising Events",
+            "Other Meal Expenses",
+            "In-House Meals for Staff"
+        ]
+    },
+    {
+        "Subcategory": "Miscellaneous Expense",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Office Supplies",
+            "Subscriptions",
+            "Bank Charges",
+            "Gifts and Donations",
+            "Other Miscellaneous Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Office Expense",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Rent Expense",
+            "Utilities Expense",
+            "Office Equipment Leasing",
+            "Repairs and Maintenance",
+            "Other Office Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Pension",
+        "Category": "Profit-Sharing Plans",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Retirement Plan Contributions",
+            "Profit-Sharing Contributions",
+            "Pension Plan Administration Fees",
+            "Other Pension-Related Expenses",
+            "Retirement Plan Education Costs"
+        ]
+    },
+    {
+        "Subcategory": "Postage and Delivery",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Mailing Costs",
+            "Courier Services",
+            "Shipping Costs",
+            "Other Postage Expenses",
+            "Express Delivery Services"
+        ]
+    },
+    {
+        "Subcategory": "Printing and Stationary",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Business Cards",
+            "Stationery Supplies",
+            "Marketing Materials",
+            "Other Printing Expenses",
+            "In-House Printing Costs"
+        ]
+    },
+    {
+        "Subcategory": "Professional Fees",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Legal Fees",
+            "Consulting Fees",
+            "Accounting Fees",
+            "Other Professional Fees",
+            "Training Fees"
+        ]
+    },
+    {
+        "Subcategory": "Rent - Real Estate",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Office Lease Payments",
+            "Leasehold Improvements",
+            "Property Taxes",
+            "Other Rent Expenses",
+            "Common Area Maintenance Fees"
+        ]
+    },
+    {
+        "Subcategory": "Rent - Other",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Storage Facility Rent",
+            "Event Venue Rental",
+            "Equipment Lease",
+            "Temporary Office Space Rent",
+            "Miscellaneous Rent Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Repairs",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Equipment Repairs",
+            "Building Repairs",
+            "Vehicle Repairs",
+            "Furniture Repairs",
+            "Other Repairs"
+        ]
+    },
+    {
+        "Subcategory": "Research and Development",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Program Development",
+            "Grant Research",
+            "Impact Studies",
+            "Technology Research",
+            "Other R&D Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Supplies",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Office Supplies",
+            "Program Supplies",
+            "Cleaning Supplies",
+            "Event Supplies",
+            "Other Supplies"
+        ]
+    },
+    {
+        "Subcategory": "Taxes - Payroll",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Federal Payroll Taxes",
+            "State Payroll Taxes",
+            "Unemployment Taxes",
+            "Social Security and Medicare Taxes",
+            "Other Payroll Taxes"
+        ]
+    },
+    {
+        "Subcategory": "Taxes - Property",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Real Estate Taxes",
+            "Personal Property Taxes",
+            "Tax Assessment Fees",
+            "Back Taxes",
+            "Other Property Tax Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Taxes - Other",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Excise Taxes",
+            "Sales Tax",
+            "Franchise Taxes",
+            "Use Tax",
+            "Other Tax Liabilities"
+        ]
+    },
+    {
+        "Subcategory": "Telephone and Internet",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Office Phone Systems",
+            "Mobile Phones for Staff",
+            "Internet Services",
+            "Teleconference Tools",
+            "Other Telephone and Internet Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Training and Conferences",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Staff Training Programs",
+            "Conferences and Seminars",
+            "Online Learning Platforms",
+            "Volunteer Training",
+            "Other Training and Conference Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Travel",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Airfare",
+            "Hotel Accommodations",
+            "Meals While Traveling",
+            "Transportation Costs",
+            "Other Travel Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Uniforms",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Staff and Volunteer Uniforms",
+            "Event Apparel",
+            "Safety Gear",
+            "Branded Apparel",
+            "Other Uniform Costs"
+        ]
+    },
+    {
+        "Subcategory": "Utilities",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Electricity",
+            "Water and Sewer",
+            "Heating and Cooling",
+            "Waste Removal",
+            "Other Utility Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Vehicle Expense",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Fuel Costs",
+            "Vehicle Maintenance",
+            "Insurance for Vehicles",
+            "Depreciation",
+            "Other Vehicle Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Wages and Salaries",
+        "Category": "Expense",
+        "Type": "Expense",
+        "Micro_Subcategory": [
+            "Employee Salaries",
+            "Hourly Wages",
+            "Overtime Pay",
+            "Bonuses and Incentives",
+            "Other Wage Expenses"
+        ]
+    },
+    {
+        "Subcategory": "Interest Income",
+        "Category": "Other Income",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Interest from Bank Accounts",
+            "Interest from Investments",
+            "Interest on Loans",
+            "Interest from Notes Receivable",
+            "Other Interest Income"
+        ]
+    },
+    {
+        "Subcategory": "Dividend Income",
+        "Category": "Other Income",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Dividends from Stocks",
+            "Dividends from Mutual Funds",
+            "Preferred Stock Dividends",
+            "Dividends from Partnerships",
+            "Other Dividend Income"
+        ]
+    },
+    {
+        "Subcategory": "Rental and Royalty Income",
+        "Category": "Other Income",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Rental Income from Property",
+            "Royalty Income from Intellectual Property",
+            "Equipment Rental Income",
+            "Royalties from Media and Publications",
+            "Other Rental and Royalty Income"
+        ]
+    },
+    {
+        "Subcategory": "Gain/(Loss) on Disposal of Assets",
+        "Category": "Other Income",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Gain/Loss from Sale of Equipment",
+            "Gain/Loss from Sale of Property",
+            "Gain/Loss from Sale of Vehicles",
+            "Gain/Loss from Trade-Ins",
+            "Gain/Loss from Sale of Other Assets"
+        ]
+    },
+    {
+        "Subcategory": "Gain/(Loss) on Disposal of Investments",
+        "Category": "Other Income",
+        "Type": "Income",
+        "Micro_Subcategory": [
+            "Gain on Sale of Stocks/Bonds",
+            "Loss on Sale of Stocks/Bonds",
+            "Gain on Sale of Mutual Funds",
+            "Loss on Sale of Mutual Funds",
+            "Other Gains or Losses on Investment Disposal"
+        ]
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "AccountType": "Asset",
+        "AccountName": [
+            {
+                "Name": "Business Bank Account",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Business Savings Account",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Accounts Receivable",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Prepayments",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Inventory",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Office Equipment",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Less Accumulated Depreciation on Office Equipment",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Computer Equipment",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Less Accumulated Depreciation on Computer Equipment",
+                "OpeningBalance": 0.00
+            }
+        ]
+    },
+    {
+        "AccountType": "Liability",
+        "AccountName": [
+            {
+                "Name": "Accounts Payable",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Unpaid Expense Claims",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Sales Tax",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Employee Tax Payable",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Superannuation Payable",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Income Tax Payable",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Revenue Received in Advance",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Loan",
+                "OpeningBalance": 0.00
+            }
+        ]
+    },
+    {
+        "AccountType": "Equity",
+        "AccountName": [
+            {
+                "Name": "Owner A Drawings",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Owner A Funds Introduced",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Retained Earnings",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Owner A Share Capital",
+                "OpeningBalance": 0.00
+            }
+        ]
+    },
+    {
+        "AccountType": "Revenue",
+        "AccountName": [
+            {
+                "Name": "Sales",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Other Revenue",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Interest Income",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Realised Currency Gains",
+                "OpeningBalance": 0.00
+            }
+        ]
+    },
+    {
+        "AccountType": "Expense",
+        "AccountName": [
+            {
+                "Name": "Purchases",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Cost of Goods Sold",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Advertising",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Bank Fees",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Cleaning",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Consulting & Accounting",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Depreciation",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Entertainment",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Freight & Courier",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "General Expenses",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Insurance",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Interest Expense",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Legal Expenses",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Light, Power, Heating",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Motor Vehicle Expenses",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Office Expenses",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Printing & Stationery",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Rent",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Repairs and Maintenance",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Wages and Salaries",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Superannuation",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Subscriptions",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Telephone & Internet",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Travel - National",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Travel - International",
+                "OpeningBalance": 0.00
+            },
+            {
+                "Name": "Income Tax Expense",
+                "OpeningBalance": 0.00
+            }
+        ]
+    }
+]

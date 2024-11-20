@@ -1,0 +1,2633 @@
+[
+    {
+        "MainCategory": "Asset",
+        "Types": [
+            {
+                "CategoryType": "Current Asset",
+                "Categories": [
+                    {
+                        "CategoriesName": "Allowance for Doubtful Accounts",
+                        "Code": "1210",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "General Reserve for Doubtful Debts"
+                            },
+                            {
+                                "SubCategoryName": "Specific Doubtful Debts"
+                            },
+                            {
+                                "SubCategoryName": "Write-offs for Uncollectible Accounts"
+                            },
+                            {
+                                "SubCategoryName": "Aging of Receivables Reserve"
+                            },
+                            {
+                                "SubCategoryName": "Other Allowance for Doubtful Accounts"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Employee Advances",
+                        "Code": "1250",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Salary Advances"
+                            },
+                            {
+                                "SubCategoryName": "Travel Advances"
+                            },
+                            {
+                                "SubCategoryName": "Expense Advances"
+                            },
+                            {
+                                "SubCategoryName": "Loan Advances"
+                            },
+                            {
+                                "SubCategoryName": "Other Employee Advances"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Due From Partner",
+                        "Code": "1270",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Partner Loan Receivables"
+                            },
+                            {
+                                "SubCategoryName": "Capital Contributions Receivable"
+                            },
+                            {
+                                "SubCategoryName": "Partner Expense Reimbursements"
+                            },
+                            {
+                                "SubCategoryName": "Draws Receivable from Partners"
+                            },
+                            {
+                                "SubCategoryName": "Other Partner Receivables"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Prepaid Expenses",
+                        "Code": "1300",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Prepaid Rent"
+                            },
+                            {
+                                "SubCategoryName": "Prepaid Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Prepaid Utilities"
+                            },
+                            {
+                                "SubCategoryName": "Prepaid Maintenance"
+                            },
+                            {
+                                "SubCategoryName": "Other Prepaid Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Other Receivables",
+                        "Code": "1310",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Receivables from Suppliers"
+                            },
+                            {
+                                "SubCategoryName": "Receivables from Employees"
+                            },
+                            {
+                                "SubCategoryName": "Receivables from Customers"
+                            },
+                            {
+                                "SubCategoryName": "Government Grants Receivable"
+                            },
+                            {
+                                "SubCategoryName": "Other Miscellaneous Receivables"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Cash",
+                        "Code": "1000",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Cash in Bank"
+                            },
+                            {
+                                "SubCategoryName": "Cash on Hand"
+                            },
+                            {
+                                "SubCategoryName": "Petty Cash"
+                            },
+                            {
+                                "SubCategoryName": "Cash Equivalents"
+                            },
+                            {
+                                "SubCategoryName": "Other Cash"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Cash in Bank",
+                        "Code": "1010",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Operating Checking Account"
+                            },
+                            {
+                                "SubCategoryName": "Payroll Checking Account"
+                            },
+                            {
+                                "SubCategoryName": "Savings Account"
+                            },
+                            {
+                                "SubCategoryName": "Money Market Account"
+                            },
+                            {
+                                "SubCategoryName": "Other Bank Accounts"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Petty Cash",
+                        "Code": "1020",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Office Petty Cash"
+                            },
+                            {
+                                "SubCategoryName": "Travel Petty Cash"
+                            },
+                            {
+                                "SubCategoryName": "Maintenance Petty Cash"
+                            },
+                            {
+                                "SubCategoryName": "Other Petty Cash"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Cash Equivalents",
+                        "Code": "1030",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Short-Term Investments"
+                            },
+                            {
+                                "SubCategoryName": "Treasury Bills"
+                            },
+                            {
+                                "SubCategoryName": "Money Market Funds"
+                            },
+                            {
+                                "SubCategoryName": "Certificates of Deposit"
+                            },
+                            {
+                                "SubCategoryName": "Other Cash Equivalents"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Inventory",
+                        "Code": "1400",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Raw Materials"
+                            },
+                            {
+                                "SubCategoryName": "Work in Progress"
+                            },
+                            {
+                                "SubCategoryName": "Finished Goods"
+                            },
+                            {
+                                "SubCategoryName": "Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Inventory Adjustments"
+                            },
+                            {
+                                "SubCategoryName": "Other Inventory"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Raw Materials",
+                        "Code": "1410",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Direct Materials"
+                            },
+                            {
+                                "SubCategoryName": "Indirect Materials"
+                            },
+                            {
+                                "SubCategoryName": "Packaging Materials"
+                            },
+                            {
+                                "SubCategoryName": "Other Raw Materials"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Work in Progress",
+                        "Code": "1420",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Assembly Work in Progress"
+                            },
+                            {
+                                "SubCategoryName": "Manufacturing Work in Progress"
+                            },
+                            {
+                                "SubCategoryName": "Repair Work in Progress"
+                            },
+                            {
+                                "SubCategoryName": "Other Work in Progress"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Finished Goods",
+                        "Code": "1430",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Finished Products"
+                            },
+                            {
+                                "SubCategoryName": "Goods for Resale"
+                            },
+                            {
+                                "SubCategoryName": "Retail Inventory"
+                            },
+                            {
+                                "SubCategoryName": "Other Finished Goods"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Supplies",
+                        "Code": "1440",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Office Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Manufacturing Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Maintenance Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Cleaning Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Other Supplies"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Inventory Adjustments",
+                        "Code": "1450",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Inventory Write-offs"
+                            },
+                            {
+                                "SubCategoryName": "Inventory Shrinkage"
+                            },
+                            {
+                                "SubCategoryName": "Inventory Revaluation"
+                            },
+                            {
+                                "SubCategoryName": "Other Inventory Adjustments"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Fixed Asset",
+                "Categories": [
+                    {
+                        "CategoriesName": "Office Equipment",
+                        "Code": "1500",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Printers and Scanners"
+                            },
+                            {
+                                "SubCategoryName": "Photocopiers"
+                            },
+                            {
+                                "SubCategoryName": "Telecommunication Devices"
+                            },
+                            {
+                                "SubCategoryName": "Office Supplies Machines"
+                            },
+                            {
+                                "SubCategoryName": "Other Office Equipment Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Computer Equipment",
+                        "Code": "1510",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Desktop Computers"
+                            },
+                            {
+                                "SubCategoryName": "Laptops"
+                            },
+                            {
+                                "SubCategoryName": "Servers and Networking Equipment"
+                            },
+                            {
+                                "SubCategoryName": "Storage Devices"
+                            },
+                            {
+                                "SubCategoryName": "Other Computer Equipment"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Furniture and Fixtures",
+                        "Code": "1520",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Office Desks"
+                            },
+                            {
+                                "SubCategoryName": "Chairs"
+                            },
+                            {
+                                "SubCategoryName": "Cabinets and Storage Units"
+                            },
+                            {
+                                "SubCategoryName": "Lighting Fixtures"
+                            },
+                            {
+                                "SubCategoryName": "Other Furniture and Fixtures"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Machinery and Equipment",
+                        "Code": "1530",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Manufacturing Equipment"
+                            },
+                            {
+                                "SubCategoryName": "Heavy Equipment"
+                            },
+                            {
+                                "SubCategoryName": "Tools and Machinery"
+                            },
+                            {
+                                "SubCategoryName": "Medical Equipment"
+                            },
+                            {
+                                "SubCategoryName": "Other Machinery and Equipment"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Vehicles",
+                        "Code": "1540",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Passenger Cars"
+                            },
+                            {
+                                "SubCategoryName": "Commercial Trucks"
+                            },
+                            {
+                                "SubCategoryName": "Vans and Utility Vehicles"
+                            },
+                            {
+                                "SubCategoryName": "Leased Vehicles"
+                            },
+                            {
+                                "SubCategoryName": "Other Vehicles"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Leasehold Improvements",
+                        "Code": "1550",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Office Renovations"
+                            },
+                            {
+                                "SubCategoryName": "Building Extensions"
+                            },
+                            {
+                                "SubCategoryName": "Interior Design and Furniture Customization"
+                            },
+                            {
+                                "SubCategoryName": "Lighting and Electrical Work"
+                            },
+                            {
+                                "SubCategoryName": "Other Leasehold Improvements"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Buildings",
+                        "Code": "1560",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Office Buildings"
+                            },
+                            {
+                                "SubCategoryName": "Warehouses"
+                            },
+                            {
+                                "SubCategoryName": "Commercial Properties"
+                            },
+                            {
+                                "SubCategoryName": "Rental Buildings"
+                            },
+                            {
+                                "SubCategoryName": "Other Buildings"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Land",
+                        "Code": "1570",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Commercial Land"
+                            },
+                            {
+                                "SubCategoryName": "Agricultural Land"
+                            },
+                            {
+                                "SubCategoryName": "Investment Land"
+                            },
+                            {
+                                "SubCategoryName": "Land Under Development"
+                            },
+                            {
+                                "SubCategoryName": "Other Land"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Accumulated Depreciation",
+                        "Code": "1590",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Depreciation on Office Equipment"
+                            },
+                            {
+                                "SubCategoryName": "Depreciation on Computer Equipment"
+                            },
+                            {
+                                "SubCategoryName": "Depreciation on Furniture and Fixtures"
+                            },
+                            {
+                                "SubCategoryName": "Depreciation on Vehicles"
+                            },
+                            {
+                                "SubCategoryName": "Depreciation on Buildings"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Patents and Licenses",
+                        "Code": "1600",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Patents for Technology"
+                            },
+                            {
+                                "SubCategoryName": "Licenses for Software"
+                            },
+                            {
+                                "SubCategoryName": "Trademarks"
+                            },
+                            {
+                                "SubCategoryName": "Franchise Licenses"
+                            },
+                            {
+                                "SubCategoryName": "Other Patents and Licenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Goodwill",
+                        "Code": "1610",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Acquisition Goodwill"
+                            },
+                            {
+                                "SubCategoryName": "Customer Goodwill"
+                            },
+                            {
+                                "SubCategoryName": "Partnership Goodwill"
+                            },
+                            {
+                                "SubCategoryName": "Market Goodwill"
+                            },
+                            {
+                                "SubCategoryName": "Other Goodwill"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Other Intangible Assets",
+                        "Code": "1620",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Customer Lists"
+                            },
+                            {
+                                "SubCategoryName": "Proprietary Software"
+                            },
+                            {
+                                "SubCategoryName": "Brand Recognition"
+                            },
+                            {
+                                "SubCategoryName": "Non-compete Agreements"
+                            },
+                            {
+                                "SubCategoryName": "Other Intangible Assets"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Accumulated Amortization",
+                        "Code": "1690",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Amortization of Patents"
+                            },
+                            {
+                                "SubCategoryName": "Amortization of Licenses"
+                            },
+                            {
+                                "SubCategoryName": "Amortization of Goodwill"
+                            },
+                            {
+                                "SubCategoryName": "Amortization of Other Intangible Assets"
+                            },
+                            {
+                                "SubCategoryName": "Other Accumulated Amortization"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Non-current Asset",
+                "Categories": [
+                    {
+                        "CategoriesName": "Investment in Publicly Traded Securities",
+                        "Code": "1700",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Common Stocks"
+                            },
+                            {
+                                "SubCategoryName": "Preferred Stocks"
+                            },
+                            {
+                                "SubCategoryName": "Bonds"
+                            },
+                            {
+                                "SubCategoryName": "Mutual Funds"
+                            },
+                            {
+                                "SubCategoryName": "Other Public Securities"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Investment in Private Companies",
+                        "Code": "1710",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Equity Interests"
+                            },
+                            {
+                                "SubCategoryName": "Convertible Debt"
+                            },
+                            {
+                                "SubCategoryName": "Venture Capital Investments"
+                            },
+                            {
+                                "SubCategoryName": "Strategic Partnerships"
+                            },
+                            {
+                                "SubCategoryName": "Other Private Investments"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Other Investments",
+                        "Code": "1720",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Real Estate Investments"
+                            },
+                            {
+                                "SubCategoryName": "Art and Collectibles"
+                            },
+                            {
+                                "SubCategoryName": "Natural Resources"
+                            },
+                            {
+                                "SubCategoryName": "Private Equity Funds"
+                            },
+                            {
+                                "SubCategoryName": "Other Investment Assets"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Other Loans Receivable",
+                        "Code": "1800",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Loans to Partners"
+                            },
+                            {
+                                "SubCategoryName": "Loans to Affiliates"
+                            },
+                            {
+                                "SubCategoryName": "Notes Receivable"
+                            },
+                            {
+                                "SubCategoryName": "Mortgages Receivable"
+                            },
+                            {
+                                "SubCategoryName": "Other Long-term Receivables"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Accounts Receivable",
+                "Categories": [
+                    {
+                        "CategoriesName": "Accounts Receivable",
+                        "Code": "1200",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Trade Receivables"
+                            },
+                            {
+                                "SubCategoryName": "Partner Receivables"
+                            },
+                            {
+                                "SubCategoryName": "Service Receivable"
+                            },
+                            {
+                                "SubCategoryName": "Doubtful Accounts"
+                            },
+                            {
+                                "SubCategoryName": "Other Receivables"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Historical Adjustment",
+                "Categories": [
+                    {
+                        "CategoriesName": "Historical Adjustment",
+                        "Code": "2700",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Prior Period Adjustments"
+                            },
+                            {
+                                "SubCategoryName": "Retroactive Adjustments"
+                            },
+                            {
+                                "SubCategoryName": "Restated Financials"
+                            },
+                            {
+                                "SubCategoryName": "Asset Revaluations"
+                            },
+                            {
+                                "SubCategoryName": "Other Historical Adjustments"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Tracking",
+                "Categories": [
+                    {
+                        "CategoriesName": "Tracking Transfers",
+                        "Code": "2650",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Asset Transfer Tracking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "MainCategory": "Liability",
+        "Types": [
+            {
+                "CategoryType": "Current Liability",
+                "Categories": [
+                    {
+                        "CategoriesName": "Customer Deposits",
+                        "Code": "2050",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Advance Customer Deposits"
+                            },
+                            {
+                                "SubCategoryName": "Security Deposits"
+                            },
+                            {
+                                "SubCategoryName": "Retainer Fees"
+                            },
+                            {
+                                "SubCategoryName": "Refundable Deposits"
+                            },
+                            {
+                                "SubCategoryName": "Other Customer Deposits"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Accrued Expenses",
+                        "Code": "2100",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Accrued Utilities"
+                            },
+                            {
+                                "SubCategoryName": "Accrued Salaries and Wages"
+                            },
+                            {
+                                "SubCategoryName": "Accrued Interest"
+                            },
+                            {
+                                "SubCategoryName": "Accrued Taxes"
+                            },
+                            {
+                                "SubCategoryName": "Other Accrued Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Interest Payable",
+                        "Code": "2110",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Interest on Loans"
+                            },
+                            {
+                                "SubCategoryName": "Interest on Credit Lines"
+                            },
+                            {
+                                "SubCategoryName": "Interest on Notes Payable"
+                            },
+                            {
+                                "SubCategoryName": "Accrued Interest"
+                            },
+                            {
+                                "SubCategoryName": "Other Interest Payable"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Wages Payable",
+                        "Code": "2120",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Salaries Payable"
+                            },
+                            {
+                                "SubCategoryName": "Bonus Payable"
+                            },
+                            {
+                                "SubCategoryName": "Overtime Payable"
+                            },
+                            {
+                                "SubCategoryName": "Commissions Payable"
+                            },
+                            {
+                                "SubCategoryName": "Other Wages Payable"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Payroll Liabilities",
+                        "Code": "2130",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Employee Withholdings Payable"
+                            },
+                            {
+                                "SubCategoryName": "Employer Payroll Taxes Payable"
+                            },
+                            {
+                                "SubCategoryName": "Benefits Payable"
+                            },
+                            {
+                                "SubCategoryName": "Retirement Contributions Payable"
+                            },
+                            {
+                                "SubCategoryName": "Other Payroll Liabilities"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Other Payables",
+                        "Code": "2140",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Accounts Payable"
+                            },
+                            {
+                                "SubCategoryName": "Taxes Payable"
+                            },
+                            {
+                                "SubCategoryName": "Accrued Liabilities"
+                            },
+                            {
+                                "SubCategoryName": "Contractual Obligations Payable"
+                            },
+                            {
+                                "SubCategoryName": "Other Payables"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Unsecured Loan (Current)",
+                        "Code": "2200",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Short-term Unsecured Loans"
+                            },
+                            {
+                                "SubCategoryName": "Credit Card Balances"
+                            },
+                            {
+                                "SubCategoryName": "Other Unsecured Financing"
+                            },
+                            {
+                                "SubCategoryName": "Bridge Loans"
+                            },
+                            {
+                                "SubCategoryName": "Other Unsecured Loans"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Secured Loan (Current)",
+                        "Code": "2210",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Current Portion of Long-term Debt"
+                            },
+                            {
+                                "SubCategoryName": "Secured Lines of Credit"
+                            },
+                            {
+                                "SubCategoryName": "Vehicle Loans Payable"
+                            },
+                            {
+                                "SubCategoryName": "Other Secured Financing"
+                            },
+                            {
+                                "SubCategoryName": "Other Secured Loans"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Due to Partner (Current)",
+                        "Code": "2220",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Partner Draws Payable"
+                            },
+                            {
+                                "SubCategoryName": "Partner Loans Payable"
+                            },
+                            {
+                                "SubCategoryName": "Other Due to Partner Amounts"
+                            },
+                            {
+                                "SubCategoryName": "Profit Distribution Payable"
+                            },
+                            {
+                                "SubCategoryName": "Other Current Liabilities to Partners"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Non-current Liability",
+                "Categories": [
+                    {
+                        "CategoriesName": "Loans Payable",
+                        "Code": "2500",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Long-term Bank Loans"
+                            },
+                            {
+                                "SubCategoryName": "Mortgage Loans"
+                            },
+                            {
+                                "SubCategoryName": "Equipment Financing"
+                            },
+                            {
+                                "SubCategoryName": "Bonds Payable"
+                            },
+                            {
+                                "SubCategoryName": "Other Long-term Loans Payable"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Loans From Partner (Noncurrent)",
+                        "Code": "2550",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Partner Capital Contributions"
+                            },
+                            {
+                                "SubCategoryName": "Deferred Partner Loans"
+                            },
+                            {
+                                "SubCategoryName": "Interest on Partner Loans"
+                            },
+                            {
+                                "SubCategoryName": "Partner Loan Repayment Schedule"
+                            },
+                            {
+                                "SubCategoryName": "Other Partner Loans"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Other Long Term Liabilities",
+                        "Code": "2600",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Deferred Tax Liabilities"
+                            },
+                            {
+                                "SubCategoryName": "Pension Obligations"
+                            },
+                            {
+                                "SubCategoryName": "Lease Liabilities"
+                            },
+                            {
+                                "SubCategoryName": "Deferred Revenue"
+                            },
+                            {
+                                "SubCategoryName": "Other Long-term Liabilities"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Suspense",
+                        "Code": "2900",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Unallocated Transactions"
+                            },
+                            {
+                                "SubCategoryName": "Unresolved Discrepancies"
+                            },
+                            {
+                                "SubCategoryName": "Pending Reconciliation"
+                            },
+                            {
+                                "SubCategoryName": "Temporary Liabilities"
+                            },
+                            {
+                                "SubCategoryName": "Other Suspense Liabilities"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Accounts Payable",
+                "Categories": [
+                    {
+                        "CategoriesName": "Accounts Payable",
+                        "Code": "2000",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Trade Payables"
+                            },
+                            {
+                                "SubCategoryName": "Accrued Liabilities"
+                            },
+                            {
+                                "SubCategoryName": "Short-term Loans Payable"
+                            },
+                            {
+                                "SubCategoryName": "Due to Affiliates"
+                            },
+                            {
+                                "SubCategoryName": "Other Payables"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Sales Tax",
+                "Categories": [
+                    {
+                        "CategoriesName": "Sales Tax",
+                        "Code": "2300",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "State Sales Tax Payable"
+                            },
+                            {
+                                "SubCategoryName": "Local Sales Tax Payable"
+                            },
+                            {
+                                "SubCategoryName": "Sales Tax Collected on Goods"
+                            },
+                            {
+                                "SubCategoryName": "Sales Tax Collected on Services"
+                            },
+                            {
+                                "SubCategoryName": "Other Sales Tax Payable"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Unpaid Expense Claims",
+                "Categories": [
+                    {
+                        "CategoriesName": "Unpaid Expense Claims",
+                        "Code": "2350",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Employee Expense Claims Payable"
+                            },
+                            {
+                                "SubCategoryName": "Travel Expense Claims Payable"
+                            },
+                            {
+                                "SubCategoryName": "Supplies Expense Claims Payable"
+                            },
+                            {
+                                "SubCategoryName": "Meals and Entertainment Claims Payable"
+                            },
+                            {
+                                "SubCategoryName": "Other Unpaid Expense Claims"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "MainCategory": "Revenue",
+        "Types": [
+            {
+                "CategoryType": "Revenue",
+                "Categories": [
+                    {
+                        "CategoriesName": "Sale of Goods",
+                        "Code": "4000",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Domestic Sales"
+                            },
+                            {
+                                "SubCategoryName": "Export Sales"
+                            },
+                            {
+                                "SubCategoryName": "Wholesale Sales"
+                            },
+                            {
+                                "SubCategoryName": "Retail Sales"
+                            },
+                            {
+                                "SubCategoryName": "Other Sales of Goods"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Service Revenue",
+                        "Code": "4100",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Consulting Services Revenue"
+                            },
+                            {
+                                "SubCategoryName": "Maintenance Services Revenue"
+                            },
+                            {
+                                "SubCategoryName": "Training Services Revenue"
+                            },
+                            {
+                                "SubCategoryName": "Professional Services Revenue"
+                            },
+                            {
+                                "SubCategoryName": "Other Service Revenues"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Other Revenues",
+                        "Code": "4200",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Interest Income"
+                            },
+                            {
+                                "SubCategoryName": "Rental Income"
+                            },
+                            {
+                                "SubCategoryName": "Dividend Income"
+                            },
+                            {
+                                "SubCategoryName": "Gain on Sale of Assets"
+                            },
+                            {
+                                "SubCategoryName": "Other Miscellaneous Revenues"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Returns and Allowances",
+                        "Code": "4300",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Sales Returns"
+                            },
+                            {
+                                "SubCategoryName": "Sales Allowances"
+                            },
+                            {
+                                "SubCategoryName": "Customer Discounts"
+                            },
+                            {
+                                "SubCategoryName": "Volume Rebates"
+                            },
+                            {
+                                "SubCategoryName": "Other Returns and Allowances"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Other income",
+                "Categories": [
+                    {
+                        "CategoriesName": "Interest Income",
+                        "Code": "7000",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Bank Interest Income"
+                            },
+                            {
+                                "SubCategoryName": "Loan Interest Income"
+                            },
+                            {
+                                "SubCategoryName": "Bond Interest Income"
+                            },
+                            {
+                                "SubCategoryName": "Investment Interest Income"
+                            },
+                            {
+                                "SubCategoryName": "Other Interest Income"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Dividend Income",
+                        "Code": "7100",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Common Stock Dividends"
+                            },
+                            {
+                                "SubCategoryName": "Preferred Stock Dividends"
+                            },
+                            {
+                                "SubCategoryName": "Mutual Fund Dividends"
+                            },
+                            {
+                                "SubCategoryName": "Dividend Reinvestment Income"
+                            },
+                            {
+                                "SubCategoryName": "Other Dividend Income"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Rental and Royalty Income",
+                        "Code": "7200",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Real Estate Rental Income"
+                            },
+                            {
+                                "SubCategoryName": "Equipment Rental Income"
+                            },
+                            {
+                                "SubCategoryName": "Royalty Income from Intellectual Property"
+                            },
+                            {
+                                "SubCategoryName": "Royalty Income from Music or Art"
+                            },
+                            {
+                                "SubCategoryName": "Other Rental and Royalty Income"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Gain/(Loss) on Disposal of Assets",
+                        "Code": "7300",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Gain/Loss on Sale of Equipment"
+                            },
+                            {
+                                "SubCategoryName": "Gain/Loss on Sale of Real Estate"
+                            },
+                            {
+                                "SubCategoryName": "Gain/Loss on Sale of Vehicles"
+                            },
+                            {
+                                "SubCategoryName": "Gain/Loss on Sale of Inventory"
+                            },
+                            {
+                                "SubCategoryName": "Other Gain/Loss on Asset Disposal"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Gain/(Loss) on Disposal of Investments",
+                        "Code": "7350",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Gain/Loss on Sale of Stocks"
+                            },
+                            {
+                                "SubCategoryName": "Gain/Loss on Sale of Bonds"
+                            },
+                            {
+                                "SubCategoryName": "Gain/Loss on Sale of Mutual Funds"
+                            },
+                            {
+                                "SubCategoryName": "Gain/Loss on Sale of Other Investments"
+                            },
+                            {
+                                "SubCategoryName": "Other Investment Disposal Gains/Losses"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Rounding",
+                "Categories": [
+                    {
+                        "CategoriesName": "Rounding",
+                        "Code": "2750",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Rounding of Sales Figures"
+                            },
+                            {
+                                "SubCategoryName": "Rounding of Tax Calculations"
+                            },
+                            {
+                                "SubCategoryName": "Rounding of Expenses"
+                            },
+                            {
+                                "SubCategoryName": "Currency Rounding"
+                            },
+                            {
+                                "SubCategoryName": "Other Rounding Adjustments"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "MainCategory": "Expense",
+        "Types": [
+            {
+                "CategoryType": "Expense",
+                "Categories": [
+                    {
+                        "CategoriesName": "Advertising",
+                        "Code": "6000",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Digital Advertising"
+                            },
+                            {
+                                "SubCategoryName": "Print Advertising"
+                            },
+                            {
+                                "SubCategoryName": "Broadcast Advertising"
+                            },
+                            {
+                                "SubCategoryName": "Outdoor Advertising"
+                            },
+                            {
+                                "SubCategoryName": "Other Advertising Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Bad Debt Expense",
+                        "Code": "6020",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Uncollectible Accounts"
+                            },
+                            {
+                                "SubCategoryName": "Allowance for Doubtful Accounts"
+                            },
+                            {
+                                "SubCategoryName": "Write-offs"
+                            },
+                            {
+                                "SubCategoryName": "Doubtful Accounts Expense"
+                            },
+                            {
+                                "SubCategoryName": "Recoveries of Bad Debts"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Bank Fees",
+                        "Code": "6030",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Monthly Maintenance Fees"
+                            },
+                            {
+                                "SubCategoryName": "Transaction Fees"
+                            },
+                            {
+                                "SubCategoryName": "Overdraft Fees"
+                            },
+                            {
+                                "SubCategoryName": "Wire Transfer Fees"
+                            },
+                            {
+                                "SubCategoryName": "Other Bank Charges"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Merchant Fees",
+                        "Code": "6040",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Credit Card Processing Fees"
+                            },
+                            {
+                                "SubCategoryName": "Transaction Fees"
+                            },
+                            {
+                                "SubCategoryName": "Monthly Service Fees"
+                            },
+                            {
+                                "SubCategoryName": "Chargebacks"
+                            },
+                            {
+                                "SubCategoryName": "Other Merchant Charges"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Cleaning and Maintenance",
+                        "Code": "6060",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Janitorial Services"
+                            },
+                            {
+                                "SubCategoryName": "Repairs and Maintenance"
+                            },
+                            {
+                                "SubCategoryName": "Supplies for Cleaning"
+                            },
+                            {
+                                "SubCategoryName": "Pest Control Services"
+                            },
+                            {
+                                "SubCategoryName": "Other Maintenance Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Commissions Paid",
+                        "Code": "6070",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Sales Commissions"
+                            },
+                            {
+                                "SubCategoryName": "Performance Bonuses"
+                            },
+                            {
+                                "SubCategoryName": "Referral Fees"
+                            },
+                            {
+                                "SubCategoryName": "Contractor Commissions"
+                            },
+                            {
+                                "SubCategoryName": "Other Commission Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Computer Expenses",
+                        "Code": "6080",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Software Licenses"
+                            },
+                            {
+                                "SubCategoryName": "Hardware Purchases"
+                            },
+                            {
+                                "SubCategoryName": "IT Support Services"
+                            },
+                            {
+                                "SubCategoryName": "Internet and Network Costs"
+                            },
+                            {
+                                "SubCategoryName": "Training and Development"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Contract Labor",
+                        "Code": "6090",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Freelancer Payments"
+                            },
+                            {
+                                "SubCategoryName": "Consulting Fees"
+                            },
+                            {
+                                "SubCategoryName": "Temporary Staffing Costs"
+                            },
+                            {
+                                "SubCategoryName": "Project-Based Labor Costs"
+                            },
+                            {
+                                "SubCategoryName": "Other Contract Labor Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Dues and Subscriptions",
+                        "Code": "6110",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Professional Association Dues"
+                            },
+                            {
+                                "SubCategoryName": "Trade Publication Subscriptions"
+                            },
+                            {
+                                "SubCategoryName": "Online Service Subscriptions"
+                            },
+                            {
+                                "SubCategoryName": "Educational Memberships"
+                            },
+                            {
+                                "SubCategoryName": "Other Dues and Subscriptions"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Employee Benefits",
+                        "Code": "6120",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Health Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Retirement Contributions"
+                            },
+                            {
+                                "SubCategoryName": "Life Insurance Premiums"
+                            },
+                            {
+                                "SubCategoryName": "Disability Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Other Employee Benefits"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Entertainment",
+                        "Code": "6130",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Client Entertainment"
+                            },
+                            {
+                                "SubCategoryName": "Employee Entertainment"
+                            },
+                            {
+                                "SubCategoryName": "Meals and Entertainment"
+                            },
+                            {
+                                "SubCategoryName": "Event Sponsorship"
+                            },
+                            {
+                                "SubCategoryName": "Other Entertainment Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Fines and Penalties",
+                        "Code": "6140",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Traffic Violations"
+                            },
+                            {
+                                "SubCategoryName": "Regulatory Fines"
+                            },
+                            {
+                                "SubCategoryName": "Contractual Penalties"
+                            },
+                            {
+                                "SubCategoryName": "Late Fees"
+                            },
+                            {
+                                "SubCategoryName": "Other Fines and Penalties"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Licenses and Fees",
+                        "Code": "6150",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Business Licenses"
+                            },
+                            {
+                                "SubCategoryName": "Professional Licenses"
+                            },
+                            {
+                                "SubCategoryName": "Permits and Regulatory Fees"
+                            },
+                            {
+                                "SubCategoryName": "Software Licenses"
+                            },
+                            {
+                                "SubCategoryName": "Other Licenses and Fees"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Insurance - Liability",
+                        "Code": "6160",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "General Liability Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Professional Liability Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Product Liability Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Excess Liability Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Other Liability Insurance"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Insurance - Employee Health",
+                        "Code": "6170",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Health Maintenance Organization"
+                            },
+                            {
+                                "SubCategoryName": "Preferred Provider Organization"
+                            },
+                            {
+                                "SubCategoryName": "High Deductible Health Plans"
+                            },
+                            {
+                                "SubCategoryName": "Health Reimbursement Arrangements"
+                            },
+                            {
+                                "SubCategoryName": "Other Employee Health Insurance"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Insurance - Life",
+                        "Code": "6180",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Term Life Insurance Premiums"
+                            },
+                            {
+                                "SubCategoryName": "Whole Life Insurance Premiums"
+                            },
+                            {
+                                "SubCategoryName": "Universal Life Insurance Premiums"
+                            },
+                            {
+                                "SubCategoryName": "Variable Life Insurance Premiums"
+                            },
+                            {
+                                "SubCategoryName": "Other Life Insurance"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Insurance - Workers Compensation",
+                        "Code": "6190",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "State Workers Compensation Premiums"
+                            },
+                            {
+                                "SubCategoryName": "Self-Insured Retention"
+                            },
+                            {
+                                "SubCategoryName": "Workers Comp Claims"
+                            },
+                            {
+                                "SubCategoryName": "Loss Control Services"
+                            },
+                            {
+                                "SubCategoryName": "Other Workers Compensation Costs"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Insurance - Other",
+                        "Code": "6200",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Property Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Business Interruption Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Cyber Liability Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Marine Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Other Insurance Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Interest Expense",
+                        "Code": "6210",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Short-Term Loan Interest"
+                            },
+                            {
+                                "SubCategoryName": "Long-Term Debt Interest"
+                            },
+                            {
+                                "SubCategoryName": "Credit Line Interest"
+                            },
+                            {
+                                "SubCategoryName": "Capital Lease Interest"
+                            },
+                            {
+                                "SubCategoryName": "Other Interest Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Meals",
+                        "Code": "6220",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Business Meals"
+                            },
+                            {
+                                "SubCategoryName": "Client Meals"
+                            },
+                            {
+                                "SubCategoryName": "Employee Meals"
+                            },
+                            {
+                                "SubCategoryName": "Meal Delivery Services"
+                            },
+                            {
+                                "SubCategoryName": "Other Meal Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Miscellaneous Expense",
+                        "Code": "6230",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Charitable Contributions"
+                            },
+                            {
+                                "SubCategoryName": "Membership Fees"
+                            },
+                            {
+                                "SubCategoryName": "Bad Debt Recovery"
+                            },
+                            {
+                                "SubCategoryName": "Small Equipment Purchases"
+                            },
+                            {
+                                "SubCategoryName": "Other Miscellaneous Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Office Expense",
+                        "Code": "6240",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Office Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Office Equipment"
+                            },
+                            {
+                                "SubCategoryName": "Furniture and Fixtures"
+                            },
+                            {
+                                "SubCategoryName": "Utilities for Office"
+                            },
+                            {
+                                "SubCategoryName": "Other Office Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Pension, Profit-Sharing Plans",
+                        "Code": "6250",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Employer Contributions to Pensions"
+                            },
+                            {
+                                "SubCategoryName": "Profit-Sharing Contributions"
+                            },
+                            {
+                                "SubCategoryName": "Retirement Plan Administration Fees"
+                            },
+                            {
+                                "SubCategoryName": "Employee Education on Retirement"
+                            },
+                            {
+                                "SubCategoryName": "Other Pension/Profit-Sharing Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Postage and Delivery",
+                        "Code": "6260",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Domestic Shipping Costs"
+                            },
+                            {
+                                "SubCategoryName": "International Shipping Costs"
+                            },
+                            {
+                                "SubCategoryName": "Postage for Mailings"
+                            },
+                            {
+                                "SubCategoryName": "Courier Services"
+                            },
+                            {
+                                "SubCategoryName": "Other Delivery Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Printing and Stationary",
+                        "Code": "6270",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Business Cards"
+                            },
+                            {
+                                "SubCategoryName": "Brochures and Flyers"
+                            },
+                            {
+                                "SubCategoryName": "Stationery Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Large Format Printing"
+                            },
+                            {
+                                "SubCategoryName": "Other Printing Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Professional Fees",
+                        "Code": "6280",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Legal Fees"
+                            },
+                            {
+                                "SubCategoryName": "Accounting Fees"
+                            },
+                            {
+                                "SubCategoryName": "Consulting Fees"
+                            },
+                            {
+                                "SubCategoryName": "Marketing Agency Fees"
+                            },
+                            {
+                                "SubCategoryName": "Other Professional Fees"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Rent - Real Estate",
+                        "Code": "6290",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Office Space Rent"
+                            },
+                            {
+                                "SubCategoryName": "Warehouse Space Rent"
+                            },
+                            {
+                                "SubCategoryName": "Retail Space Rent"
+                            },
+                            {
+                                "SubCategoryName": "Land Lease Payments"
+                            },
+                            {
+                                "SubCategoryName": "Other Real Estate Rent"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Rent - Other",
+                        "Code": "6300",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Equipment Rental"
+                            },
+                            {
+                                "SubCategoryName": "Vehicle Rental"
+                            },
+                            {
+                                "SubCategoryName": "Event Space Rental"
+                            },
+                            {
+                                "SubCategoryName": "Storage Rental"
+                            },
+                            {
+                                "SubCategoryName": "Other Rental Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Repairs",
+                        "Code": "6310",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Equipment Repairs"
+                            },
+                            {
+                                "SubCategoryName": "Building Repairs"
+                            },
+                            {
+                                "SubCategoryName": "Vehicle Repairs"
+                            },
+                            {
+                                "SubCategoryName": "Furniture Repairs"
+                            },
+                            {
+                                "SubCategoryName": "Other Repairs"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Research and Development",
+                        "Code": "6320",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Product Development Costs"
+                            },
+                            {
+                                "SubCategoryName": "Market Research"
+                            },
+                            {
+                                "SubCategoryName": "Testing and Prototyping"
+                            },
+                            {
+                                "SubCategoryName": "R&D Labor Costs"
+                            },
+                            {
+                                "SubCategoryName": "Other R&D Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Supplies",
+                        "Code": "6330",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Office Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Production Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Cleaning Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Safety Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Other Supplies"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Taxes - Payroll",
+                        "Code": "6340",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Federal Payroll Taxes"
+                            },
+                            {
+                                "SubCategoryName": "State Payroll Taxes"
+                            },
+                            {
+                                "SubCategoryName": "Local Payroll Taxes"
+                            },
+                            {
+                                "SubCategoryName": "FICA Taxes"
+                            },
+                            {
+                                "SubCategoryName": "Other Payroll Taxes"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Taxes - Property",
+                        "Code": "6350",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Real Estate Taxes"
+                            },
+                            {
+                                "SubCategoryName": "Personal Property Taxes"
+                            },
+                            {
+                                "SubCategoryName": "Commercial Property Taxes"
+                            },
+                            {
+                                "SubCategoryName": "Other Property Taxes"
+                            },
+                            {
+                                "SubCategoryName": "Property Tax Appeals"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Taxes - Other",
+                        "Code": "6360",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Sales Tax"
+                            },
+                            {
+                                "SubCategoryName": "Use Tax"
+                            },
+                            {
+                                "SubCategoryName": "Franchise Tax"
+                            },
+                            {
+                                "SubCategoryName": "Excise Tax"
+                            },
+                            {
+                                "SubCategoryName": "Other Taxes"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Telephone and Internet",
+                        "Code": "6370",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Landline Phone Services"
+                            },
+                            {
+                                "SubCategoryName": "Mobile Phone Services"
+                            },
+                            {
+                                "SubCategoryName": "Internet Services"
+                            },
+                            {
+                                "SubCategoryName": "Communication Software"
+                            },
+                            {
+                                "SubCategoryName": "Other Communication Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Training and Conferences",
+                        "Code": "6380",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Employee Training Programs"
+                            },
+                            {
+                                "SubCategoryName": "Travel for Training"
+                            },
+                            {
+                                "SubCategoryName": "Training Materials"
+                            },
+                            {
+                                "SubCategoryName": "Conference Registration Fees"
+                            },
+                            {
+                                "SubCategoryName": "Other Training Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Travel",
+                        "Code": "6390",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Airfare"
+                            },
+                            {
+                                "SubCategoryName": "Hotel Accommodations"
+                            },
+                            {
+                                "SubCategoryName": "Meals While Traveling"
+                            },
+                            {
+                                "SubCategoryName": "Transportation Costs"
+                            },
+                            {
+                                "SubCategoryName": "Other Travel Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Uniforms",
+                        "Code": "6400",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Work Uniforms"
+                            },
+                            {
+                                "SubCategoryName": "Safety Gear"
+                            },
+                            {
+                                "SubCategoryName": "Uniform Maintenance"
+                            },
+                            {
+                                "SubCategoryName": "Uniform Accessories"
+                            },
+                            {
+                                "SubCategoryName": "Other Uniform Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Utilities",
+                        "Code": "6410",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Electricity"
+                            },
+                            {
+                                "SubCategoryName": "Water and Sewer"
+                            },
+                            {
+                                "SubCategoryName": "Natural Gas"
+                            },
+                            {
+                                "SubCategoryName": "Internet and Phone Services"
+                            },
+                            {
+                                "SubCategoryName": "Other Utility Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Vehicle Expense",
+                        "Code": "6420",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Fuel Costs"
+                            },
+                            {
+                                "SubCategoryName": "Vehicle Maintenance"
+                            },
+                            {
+                                "SubCategoryName": "Insurance for Vehicles"
+                            },
+                            {
+                                "SubCategoryName": "Lease Payments"
+                            },
+                            {
+                                "SubCategoryName": "Other Vehicle Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Wages and Salaries",
+                        "Code": "6430",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Employee Salaries"
+                            },
+                            {
+                                "SubCategoryName": "Overtime Wages"
+                            },
+                            {
+                                "SubCategoryName": "Bonuses and Incentives"
+                            },
+                            {
+                                "SubCategoryName": "Contractor Payments"
+                            },
+                            {
+                                "SubCategoryName": "Other Wage Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Guaranteed Payments",
+                        "Code": "6500",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Guaranteed Payments to Partners"
+                            },
+                            {
+                                "SubCategoryName": "Draws Against Future Income"
+                            },
+                            {
+                                "SubCategoryName": "Payments for Services Rendered"
+                            },
+                            {
+                                "SubCategoryName": "Retirement Contributions for Partners"
+                            },
+                            {
+                                "SubCategoryName": "Health Insurance Premiums for Partners"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Charitable Contributions",
+                        "Code": "8000",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Donations to Nonprofits"
+                            },
+                            {
+                                "SubCategoryName": "Sponsorship of Events"
+                            },
+                            {
+                                "SubCategoryName": "In-Kind Contributions"
+                            },
+                            {
+                                "SubCategoryName": "Employee Matching Contributions"
+                            },
+                            {
+                                "SubCategoryName": "Other Charitable Contributions"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Direct Costs",
+                "Categories": [
+                    {
+                        "CategoriesName": "Cost of Goods Sold",
+                        "Code": "5000",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Raw Materials Used"
+                            },
+                            {
+                                "SubCategoryName": "Finished Goods Costs"
+                            },
+                            {
+                                "SubCategoryName": "Manufacturing Overhead"
+                            },
+                            {
+                                "SubCategoryName": "Cost of Purchases"
+                            },
+                            {
+                                "SubCategoryName": "Other Cost of Goods Sold"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Cost of Goods Sold - Labor",
+                        "Code": "5100",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Direct Production Labor"
+                            },
+                            {
+                                "SubCategoryName": "Overtime Labor Costs"
+                            },
+                            {
+                                "SubCategoryName": "Temporary Labor"
+                            },
+                            {
+                                "SubCategoryName": "Employee Benefits for Labor"
+                            },
+                            {
+                                "SubCategoryName": "Other Labor Costs"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Cost of Goods Sold - Supplies",
+                        "Code": "5200",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Production Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Maintenance Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Packaging Supplies"
+                            },
+                            {
+                                "SubCategoryName": "Office Supplies for Production"
+                            },
+                            {
+                                "SubCategoryName": "Other Supplies Costs"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Cost of Goods Sold - Shipping/Freight",
+                        "Code": "5300",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Inbound Freight Costs"
+                            },
+                            {
+                                "SubCategoryName": "Outbound Freight Costs"
+                            },
+                            {
+                                "SubCategoryName": "Freight Insurance"
+                            },
+                            {
+                                "SubCategoryName": "Packaging and Handling Fees"
+                            },
+                            {
+                                "SubCategoryName": "Other Shipping/Freight Costs"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Inventory Adjustment",
+                        "Code": "5900",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Shrinkage"
+                            },
+                            {
+                                "SubCategoryName": "Spoilage"
+                            },
+                            {
+                                "SubCategoryName": "Obsolescence"
+                            },
+                            {
+                                "SubCategoryName": "Revaluation Adjustments"
+                            },
+                            {
+                                "SubCategoryName": "Other Inventory Adjustments"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Depreciation",
+                "Categories": [
+                    {
+                        "CategoriesName": "Amortization",
+                        "Code": "6010",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Intangible Asset Amortization"
+                            },
+                            {
+                                "SubCategoryName": "Loan Cost Amortization"
+                            },
+                            {
+                                "SubCategoryName": "Software Amortization"
+                            },
+                            {
+                                "SubCategoryName": "Non-Compete Agreement Amortization"
+                            },
+                            {
+                                "SubCategoryName": "Other Amortization Expenses"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Depreciation",
+                        "Code": "6100",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Straight-Line Depreciation"
+                            },
+                            {
+                                "SubCategoryName": "Declining Balance Depreciation"
+                            },
+                            {
+                                "SubCategoryName": "Units of Production Depreciation"
+                            },
+                            {
+                                "SubCategoryName": "Section 179 Deduction"
+                            },
+                            {
+                                "SubCategoryName": "Other Depreciation Methods"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Rounding",
+                "Categories": [
+                    {
+                        "CategoriesName": "Rounding",
+                        "Code": "2750",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Rounding of Sales Figures"
+                            },
+                            {
+                                "SubCategoryName": "Rounding of Tax Calculations"
+                            },
+                            {
+                                "SubCategoryName": "Rounding of Expenses"
+                            },
+                            {
+                                "SubCategoryName": "Currency Rounding"
+                            },
+                            {
+                                "SubCategoryName": "Other Rounding Adjustments"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Tracking",
+                "Categories": [
+                    {
+                        "CategoriesName": "Tracking Transfers",
+                        "Code": "2650",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Expense Reimbursement Tracking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "MainCategory": "Equity",
+        "Types": [
+            {
+                "CategoryType": "Equity",
+                "Categories": [
+                    {
+                        "CategoriesName": "Capital Account - Partner 1",
+                        "Code": "3100",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Initial Capital Contribution"
+                            },
+                            {
+                                "SubCategoryName": "Additional Capital Injection"
+                            },
+                            {
+                                "SubCategoryName": "Profit Allocation"
+                            },
+                            {
+                                "SubCategoryName": "Capital Reinvestment"
+                            },
+                            {
+                                "SubCategoryName": "Capital Withdrawal Adjustment"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Capital Account - Partner 2",
+                        "Code": "3110",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Initial Capital Contribution"
+                            },
+                            {
+                                "SubCategoryName": "Additional Capital Injection"
+                            },
+                            {
+                                "SubCategoryName": "Profit Allocation"
+                            },
+                            {
+                                "SubCategoryName": "Capital Reinvestment"
+                            },
+                            {
+                                "SubCategoryName": "Capital Withdrawal Adjustment"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Capital Account - Partner 3",
+                        "Code": "3120",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Initial Capital Contribution"
+                            },
+                            {
+                                "SubCategoryName": "Additional Capital Injection"
+                            },
+                            {
+                                "SubCategoryName": "Profit Allocation"
+                            },
+                            {
+                                "SubCategoryName": "Capital Reinvestment"
+                            },
+                            {
+                                "SubCategoryName": "Capital Withdrawal Adjustment"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Partner Draws - Partner 1",
+                        "Code": "3200",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Scheduled Draws"
+                            },
+                            {
+                                "SubCategoryName": "Unscheduled Draws"
+                            },
+                            {
+                                "SubCategoryName": "Draws Adjustment"
+                            },
+                            {
+                                "SubCategoryName": "Draws Reimbursement"
+                            },
+                            {
+                                "SubCategoryName": "Other Draws"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Partner Draws - Partner 2",
+                        "Code": "3210",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Scheduled Draws"
+                            },
+                            {
+                                "SubCategoryName": "Unscheduled Draws"
+                            },
+                            {
+                                "SubCategoryName": "Draws Adjustment"
+                            },
+                            {
+                                "SubCategoryName": "Draws Reimbursement"
+                            },
+                            {
+                                "SubCategoryName": "Other Draws"
+                            }
+                        ]
+                    },
+                    {
+                        "CategoriesName": "Partner Draws - Partner 3",
+                        "Code": "3220",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Scheduled Draws"
+                            },
+                            {
+                                "SubCategoryName": "Unscheduled Draws"
+                            },
+                            {
+                                "SubCategoryName": "Draws Adjustment"
+                            },
+                            {
+                                "SubCategoryName": "Draws Reimbursement"
+                            },
+                            {
+                                "SubCategoryName": "Other Draws"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Retained Earnings",
+                "Categories": [
+                    {
+                        "CategoriesName": "Retained Earnings",
+                        "Code": "3900",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Opening Retained Earnings"
+                            },
+                            {
+                                "SubCategoryName": "Net Income Adjustment"
+                            },
+                            {
+                                "SubCategoryName": "Distributions to Partners"
+                            },
+                            {
+                                "SubCategoryName": "Prior Period Adjustments"
+                            },
+                            {
+                                "SubCategoryName": "Other Retained Earnings Adjustments"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "CategoryType": "Tracking",
+                "Categories": [
+                    {
+                        "CategoriesName": "Tracking Transfers",
+                        "Code": "2650",
+                        "SubCategories": [
+                            {
+                                "SubCategoryName": "Intra-Partner Transfers:"
+                            },
+                            {
+                                "SubCategoryName": "Partner Contribution Tracking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
