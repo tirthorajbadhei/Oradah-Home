@@ -826,7 +826,7 @@ server.put('/account/:id', verifyJWT, async (req, res) => {
         { $pull: { account: id } },
         { new: true }
       );
-
+//dqwdqwdqwd
       // Add the account reference to the new user's account array
       await RegisteruserModel.findByIdAndUpdate(
         user_id,
